@@ -82,7 +82,7 @@ int main()
             remove_vertice_adjacency(adj_mat);
             clear_screen();
             break;
-        case 'p': // search by depth
+        case 'p': // search by depth 
         {
             cout << "\n\n";
             vector<int> visiting_order;
